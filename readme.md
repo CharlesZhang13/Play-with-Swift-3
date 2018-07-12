@@ -1,6 +1,8 @@
 **写在前面**
 
-如果大家发现了任何错误，请[issue](https://guides.github.com/features/issues/)。谢谢
+如果大家发现了任何错误，请[issue](https://github.com/JeffreyWang2864/Play-with-Swift-3/issues)。谢谢
+
+[如何issue?](https://guides.github.com/features/issues/)
 
 下面是原来的readme
 
